@@ -1,2 +1,2 @@
 # CourseWork
-This is all codes from the coursework in University
+Codes from the text analysis in Fordam University
